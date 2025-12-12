@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "synIvLZmiIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Malvyn\\Documents\\GitHub\\term-project-DenisyukA\\watterMarka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Malvyn\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.1\\microsoft.win32.systemevents.9.0.1.nupkg.sha512",
+    "C:\\Users\\Malvyn\\.nuget\\packages\\skiasharp\\3.118.0-preview.2.3\\skiasharp.3.118.0-preview.2.3.nupkg.sha512",
+    "C:\\Users\\Malvyn\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.118.0-preview.2.3\\skiasharp.nativeassets.macos.3.118.0-preview.2.3.nupkg.sha512",
+    "C:\\Users\\Malvyn\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.118.0-preview.2.3\\skiasharp.nativeassets.win32.3.118.0-preview.2.3.nupkg.sha512",
+    "C:\\Users\\Malvyn\\.nuget\\packages\\system.drawing.common\\9.0.1\\system.drawing.common.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
